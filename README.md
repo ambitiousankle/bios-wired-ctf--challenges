@@ -1,2 +1,2 @@
 # bios-wired-ctf--challenges
-solution and 
+solution and method of solution 
