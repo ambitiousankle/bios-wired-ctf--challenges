@@ -3,7 +3,7 @@
 solution and what I understood
 
 
-1)###LIFETIMESETLLEMENT :###
+1)### LIFETIMESETLLEMENT : ###
 i went into the site of d-code and pasted the cipher and searched which cipher and found out it was spoon cipher then d-coded the message using spoon decoder and found the flag
 
 Learnt : learnt about spoon cipher 
